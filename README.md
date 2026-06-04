@@ -1,12 +1,6 @@
-# Beverage-Sales-Analysis-2023
-Power BI sales performance dashboard featuring trend analysis and forecasting
-# Synthetic Beverage Product Analysis & Forecasting 2023
-
-Power BI dashboard analyzing sales trends, forecasting, and KPI performance.
-
 ## Project Overview
 
-This Power BI project analyzes beverage sales data to evaluate revenue performance, product demand trends, and forecast future sales activity. The dashboard was designed to provide business insights through interactive visualizations and KPI reporting.
+This project uses a synthetic 2023 beverage sales dataset to explore how sales performance changed throughout the year and how those trends can be used to forecast future results. The dashboard was built in Power BI to turn raw sales data into meaningful business insights, allowing users to quickly understand revenue performance, product demand, and expected future activity through interactive visualizations and KPI reporting.
 
 ## Tools Used
 
