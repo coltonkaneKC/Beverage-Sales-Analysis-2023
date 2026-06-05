@@ -22,3 +22,5 @@ This project uses a synthetic 2023 beverage sales dataset to explore how sales p
 - Business Analytics
 - Dashboard Design
 - DAX Measures
+
+Model too large to upload
